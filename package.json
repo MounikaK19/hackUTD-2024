@@ -11,6 +11,7 @@
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "dependencies": {
+    "pinata": "^1.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
